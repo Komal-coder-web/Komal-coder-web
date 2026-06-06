@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Komal Saini 👋
 
-<!--
-**Komal-coder-web/Komal-coder-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 BCA Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about technology, problem solving and continuous learning.
+
+🚀 Building projects, exploring different technologies and strengthening my technical skills.
+
+---
+
+## Skills
+
+- C
+- C++
+- C#
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Excel
+- Java
+- Python
+- Git & GitHub
+
+---
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Software Development
+- Web Technologies
+- Data Analytics Fundamentals
+
+---
+
+## Projects
+
+- Portfolio Website (In Progress)
+- Student Management System
+- SQL Practice Repository
+- Data Analysis Projects (Upcoming)
+
+---
+
+## Goals
+
+- Build practical projects
+- Improve technical skills
+- Gain industry experience
+- Grow as an IT professional
+
+---
+
+## Connect With Me
+
+📍 Sonipat, Haryana, India
