@@ -18,8 +18,7 @@
 - SQL
 - HTML
 - CSS
-- JavaScript
-- Excel
+- Microsoft Office
 - Java
 - Python
 - Git & GitHub
@@ -37,10 +36,8 @@
 
 ## Projects
 
-- Portfolio Website (In Progress)
-- Student Management System
-- SQL Practice Repository
-- Data Analysis Projects (Upcoming)
+- Portfolio Website
+- Student Management System (In Progress)
 
 ---
 
