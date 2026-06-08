@@ -21,7 +21,8 @@
 - Microsoft Office
 - Java
 - Python
-- Git & GitHub
+- SEO
+- Diital Marketing 
 
 ---
 
