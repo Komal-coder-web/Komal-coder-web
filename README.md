@@ -22,7 +22,7 @@
 - Java
 - Python
 - SEO
-- Diital Marketing 
+- Digital Marketing 
 
 ---
 
